@@ -55,7 +55,7 @@ This bot automatically deletes messages containing banned words and allows simpl
 - Auto-welcome new members
 - Logging deleted messages
 
-**Pay $10 via [Cashapp](freddycuka5) and get the premium version immediately!**
+**Pay $10 via [Cashap](freddycuka5) and get the premium version immediately!**
 
 ---
 
